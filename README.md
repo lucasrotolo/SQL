@@ -3,15 +3,6 @@ Trabajo final de la material Bases de datos
 
 El Trabajo Práctico Especial (TPE) consiste en la resolución de un conjunto de controles y servicios sobre una base de datos que mantiene un sistema para un Wireless Internet Service Provider, según las consignas y pautas que se indican.
 
-Consideraciones Importantes:
-
-- El trabajo deberá resolverse en grupos (de 2 ó 3 integrantes), previa inscripción en el formulario dispuesto en la página de la materia, hasta el 20/09/2021.
-- El esquema inicial es provisto por la cátedra.
-- Durante los espacios de Práctica Especial habrá instancias de monitoreo de avance de cada grupo y se podrán realizar consultas con el docente asignado.
-- Entrega del TPE: El trabajo podrá entregarse hasta las 23:59 hs del día 09/11/2021 (sin opción de recuperación). La entrega se realizará a través de la plataforma Moodle, según se especifique oportunamente, por parte de uno de los integrantes de cada grupo.
-- El código SQL generado en cada caso debe estar optimizado, utilizando los atributos, tablas y/u operaciones necesarias, de acuerdo a lo requerido.
-- Las soluciones entregadas serán probadas y evaluadas en el DBMS usado durante el curso (PostgreSQL), vía web utilizando el PhpPgAdmin o mediante la aplicación de escritorio DataGrip (de JetBrains). Cada grupo debe asegurarse que ejecuten sin errores, en el orden estipulado, para que se pueda proceder a la corrección del TPE.
-
 Descripción resumida del Sistema:
 
 - La empresa posee clientes dispersos en diferentes localidades de la provincia; adicionalmente cada cliente puede poseer varios puntos de conexión (equipos).
